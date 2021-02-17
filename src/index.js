@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <h1>First day with Amplify service</h1>
+    <h1>Congrats you have deployed your web service using amplify of AWS.</h1>
   </React.StrictMode>,
   document.getElementById('root')
 );
