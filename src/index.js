@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <h1>First day with Amplify service</h1>
   </React.StrictMode>,
   document.getElementById('root')
 );
